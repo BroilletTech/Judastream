@@ -69,7 +69,7 @@ services:
       - TZ=Europe/Berlin
       - BASE_URL=/ombi #optional
     volumes:
-      - /path/to/appdata/config:/config
+      - /docker/appdata/Ombi:/config
     ports:
       - 3579:3579
   emby:
