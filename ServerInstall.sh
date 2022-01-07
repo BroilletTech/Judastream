@@ -25,4 +25,3 @@ sudo mkdir /mnt/Vault/Downloads/Music
 sudo chmod +x /usr/local/bin/docker-compose
 sudo docker–compose --version
 docker volume create portainer_data
-sudo docker-compose up -f Mediaserver.yml
