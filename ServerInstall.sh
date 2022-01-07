@@ -13,6 +13,7 @@ sudo mkdir /docker/appdata/Lidarr
 sudo mkdir /docker/appdata/qbittorrent
 sudo mkdir /docker/appdata/Bazarr
 sudo mkdir /docker/appdata/Emby
+sudo mkdir /docker/appdata/Ombi
 sudo mkdir /docker/appdata/wireguard
 sudo mkdir /mnt/Vault
 sudo mkdir /mnt/Vault/Media
