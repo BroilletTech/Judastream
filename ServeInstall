@@ -1,0 +1,38 @@
+sudo apt update 
+apt upgrade
+apt install curl
+curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+curl -fsSL https://raw.githubusercontent.com/MatchbookLab/local-persist/master/scripts/install.sh | sudo bash
+mkdir -R /docker/appdata/Sonarr
+mkdir /docker/appdata/Radarr
+mkdir /docker/appdata/Lidarr
+mkdir /docker/appdata/qbittorrent
+mkdir /docker/appdata/Bazarr
+mkdir /docker/appdata/Emby
+mkdir /docker/appdata/Ombi
+mkdir /docker/appdata/Jackett
+mkdir -R /mnt/Vault/Media/Series
+mkdir /mnt/Vault/Media/Movies
+mkdir /mnt/Vault/Media/Music
+mkdir -R /mnt/Vault/Downloads/Series
+mkdir /mnt/Vault/Downloads/Movies
+mkdir /mnt/Vault/Downloads/Music
+chown -R vadmin:vadmin /mnt/Vault
+chmod -R 775 /mnt/Vault
+chmod +x /usr/local/bin/docker-compose
+docker–compose --version
+docker volume create portainer_data
+docker volume create -d local-persist -o mountpoint=/docker/appdata/Sonarr --name=Sonarr_Config
+docker volume create -d local-persist -o mountpoint=/docker/appdata/Radarr --name=Radarr_Config
+docker volume create -d local-persist -o mountpoint=/docker/appdata/Lidarr --name=Lidarr_Config
+docker volume create -d local-persist -o mountpoint=/docker/appdata/Bazarr --name=Bazarr_Config
+docker volume create -d local-persist -o mountpoint=/docker/appdata/Ombi --name=Ombi_Config
+docker volume create -d local-persist -o mountpoint=/docker/appdata/Emby --name=Emby_Config
+docker volume create -d local-persist -o mountpoint=/docker/appdata/qbittorrent --name=qbittorrent_Config
+docker volume create -d local-persist -o mountpoint=/mnt/Vault --name=Data
+docker volume create -d local-persist -o mountpoint=/mnt/Vault/Downloads --name=Downloads
+docker run -d -p 8000:8000 -p 9443:9443 --name portainer \
+    --restart=always \
+    -v /var/run/docker.sock:/var/run/docker.sock \
+    -v portainer_data:/data \
+    cr.portainer.io/portainer/portainer-ce:2.9.3
