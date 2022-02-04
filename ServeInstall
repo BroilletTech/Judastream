@@ -26,6 +26,7 @@ docker volume create -d local-persist -o mountpoint=/docker/appdata/Sonarr --nam
 docker volume create -d local-persist -o mountpoint=/docker/appdata/Radarr --name=Radarr_Config
 docker volume create -d local-persist -o mountpoint=/docker/appdata/Lidarr --name=Lidarr_Config
 docker volume create -d local-persist -o mountpoint=/docker/appdata/Bazarr --name=Bazarr_Config
+docker volume create -d local-persist -o mountpoint=/docker/appdata/Jackett --name=Jackett_Config
 docker volume create -d local-persist -o mountpoint=/docker/appdata/Ombi --name=Ombi_Config
 docker volume create -d local-persist -o mountpoint=/docker/appdata/Emby --name=Emby_Config
 docker volume create -d local-persist -o mountpoint=/docker/appdata/qbittorrent --name=qbittorrent_Config
