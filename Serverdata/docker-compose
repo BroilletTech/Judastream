@@ -1,0 +1,103 @@
+---
+version: "3.2"
+services:
+  portainer:
+    image: cr.portainer.io/portainer/portainer-ce:2.9.3
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data #optional      
+    ports:
+      - 8000:8000
+      - 9443:9443
+  sonarr:
+    image: lscr.io/linuxserver/sonarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+    volumes:
+      - /docker/appdata/Sonarr:/config
+      - /mnt/Vault/:/tv #optional
+      - /path/to/downloadclient-downloads:/downloads #optional
+    ports:
+      - 8989:8989
+  radarr:
+    image: lscr.io/linuxserver/radarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+    volumes:
+      - /docker/appdata/Radarr:/config
+      - /mnt/Vault/:/movies #optional
+      - /path/to/downloadclient-downloads:/downloads #optional
+    ports:
+      - 7878:7878
+  lidarr:
+    image: lscr.io/linuxserver/lidarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+    volumes:
+      - /docker/appdata/Lidarr:/config
+      - /mnt/Vault/:/music #optional
+      - /path/to/downloads:/downloads #optional
+    ports:
+      - 8686:8686
+  bazarr:
+    image: lscr.io/linuxserver/bazarr
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+    volumes:
+      - /docker/:/config
+      - /path/to/movies:/movies #optional
+      - /path/to/tv:/tv #optional
+    ports:
+      - 6767:6767    
+  ombi:
+    image: lscr.io/linuxserver/ombi
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+      - BASE_URL=/ombi #optional
+    volumes:
+      - /docker/appdata/Ombi:/config
+    ports:
+      - 3579:3579
+  emby:
+    image: emby/embyserver
+    environment:
+      - UID=1000 # The UID to run emby as (default: 2)
+      - GID=100 # The GID to run emby as (default 2)
+      - GIDLIST=100 # A comma-separated list of additional GIDs to run emby as (default: 2)
+    volumes:
+      - /docker/appdata/emby:/config # Configuration directory
+      - /mnt/Vault/Media:/mnt/share1 # Media directory
+      - /path/to/movies:/mnt/share2 # Media directory
+    ports:
+      - 8096:8096 # HTTP port
+      - 8920:8920 # HTTPS port
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Berlin
+      - WEBUI_PORT=8080
+    volumes:
+      - /docker/appdata/qbittorrent:/config
+      - /mnt/Vault/Downloads:/downloads
+    ports:
+      - 6881:6881
+      - 6881:6881/udp
+      - 8080:8080
+  
+ 

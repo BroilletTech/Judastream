@@ -1,0 +1,439 @@
+(N) 2022-01-07T19:14:47 - qBittorrent v4.3.9 started
+(N) 2022-01-07T19:14:47 - Using config directory: /config/qBittorrent/
+(I) 2022-01-07T19:14:47 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-01-07T19:14:47 - Peer ID: -qB4390-
+(N) 2022-01-07T19:14:47 - HTTP User-Agent is 'qBittorrent/4.3.9'
+(I) 2022-01-07T19:14:47 - DHT support [ON]
+(I) 2022-01-07T19:14:47 - Local Peer Discovery support [ON]
+(I) 2022-01-07T19:14:47 - PeX support [ON]
+(I) 2022-01-07T19:14:47 - Anonymous mode [OFF]
+(I) 2022-01-07T19:14:47 - Encryption support [ON]
+(W) 2022-01-07T19:14:47 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2022-01-07T19:14:47 - Using built-in Web UI.
+(N) 2022-01-07T19:14:47 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2022-01-07T19:14:47 - Web UI: Now listening on IP: *, port: 8080
+(W) 2022-01-07T19:14:47 - Couldn't load torrents queue from '/config/qBittorrent/BT_backup/queue'. Error: No such file or directory
+(I) 2022-01-07T19:14:47 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-01-07T19:14:47 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2022-01-07T19:14:47 - Successfully listening on IP: 10.0.2.10, port: TCP/6881
+(I) 2022-01-07T19:14:47 - Successfully listening on IP: 10.0.2.10, port: UDP/6881
+(I) 2022-01-07T19:14:47 - Successfully listening on IP: 172.18.0.4, port: TCP/6881
+(I) 2022-01-07T19:14:47 - Successfully listening on IP: 172.18.0.4, port: UDP/6881
+(I) 2022-01-07T19:14:47 - Successfully listening on IP: 10.0.0.10, port: TCP/6881
+(I) 2022-01-07T19:14:47 - Successfully listening on IP: 10.0.0.10, port: UDP/6881
+(I) 2022-01-07T19:14:47 - Detected external IP: 188.61.109.224
+(I) 2022-01-07T19:14:47 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(I) 2022-01-07T19:14:47 - Successfully updated IP geolocation database.
+(N) 2022-01-07T20:54:36 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T20:56:48 - Web UI: Now listening on IP: *, port: 8080
+(N) 2022-01-07T20:56:57 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T21:01:50 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T21:03:30 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T21:27:42 - 'Breaking.Bad.S02.Multi.1080p.PopHD' added to download list.
+(N) 2022-01-07T21:55:20 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T21:59:17 - 'The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD' added to download list.
+(N) 2022-01-07T22:08:43 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T22:19:46 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T22:43:34 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T22:55:16 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T23:06:05 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T23:26:25 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T23:36:16 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-01-07T23:51:17 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-07T23:51:49 - qBittorrent v4.3.9 started
+(N) 2022-01-07T23:51:49 - Using config directory: /config/qBittorrent/
+(I) 2022-01-07T23:51:49 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-01-07T23:51:49 - Peer ID: -qB4390-
+(N) 2022-01-07T23:51:49 - HTTP User-Agent is 'qBittorrent/4.3.9'
+(I) 2022-01-07T23:51:49 - DHT support [ON]
+(I) 2022-01-07T23:51:49 - Local Peer Discovery support [ON]
+(I) 2022-01-07T23:51:49 - PeX support [ON]
+(I) 2022-01-07T23:51:49 - Anonymous mode [OFF]
+(I) 2022-01-07T23:51:49 - Encryption support [ON]
+(I) 2022-01-07T23:51:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(N) 2022-01-07T23:51:49 - Using built-in Web UI.
+(N) 2022-01-07T23:51:49 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2022-01-07T23:51:49 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-01-07T23:51:49 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-01-07T23:51:49 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2022-01-07T23:51:49 - Successfully listening on IP: 10.0.0.52, port: TCP/6881
+(I) 2022-01-07T23:51:49 - Successfully listening on IP: 10.0.0.52, port: UDP/6881
+(I) 2022-01-07T23:51:49 - Successfully listening on IP: 172.18.0.8, port: TCP/6881
+(I) 2022-01-07T23:51:49 - Successfully listening on IP: 172.18.0.8, port: UDP/6881
+(I) 2022-01-07T23:51:49 - Successfully listening on IP: 10.0.3.14, port: TCP/6881
+(I) 2022-01-07T23:51:49 - Successfully listening on IP: 10.0.3.14, port: UDP/6881
+(N) 2022-01-07T23:51:49 - 'The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-01-07T23:51:49 - 'Breaking.Bad.S02.Multi.1080p.PopHD' restored.
+(I) 2022-01-07T23:51:49 - Detected external IP: 188.61.109.224
+(N) 2022-01-07T23:52:15 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T23:52:18 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T23:52:52 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-01-07T23:56:12 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-07T23:56:37 - qBittorrent v4.3.9 started
+(N) 2022-01-07T23:56:37 - Using config directory: /config/qBittorrent/
+(I) 2022-01-07T23:56:37 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-01-07T23:56:37 - Peer ID: -qB4390-
+(N) 2022-01-07T23:56:37 - HTTP User-Agent is 'qBittorrent/4.3.9'
+(I) 2022-01-07T23:56:37 - DHT support [ON]
+(I) 2022-01-07T23:56:37 - Local Peer Discovery support [ON]
+(I) 2022-01-07T23:56:37 - PeX support [ON]
+(I) 2022-01-07T23:56:37 - Anonymous mode [OFF]
+(I) 2022-01-07T23:56:37 - Encryption support [ON]
+(I) 2022-01-07T23:56:37 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(N) 2022-01-07T23:56:37 - Using built-in Web UI.
+(N) 2022-01-07T23:56:37 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2022-01-07T23:56:37 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-01-07T23:56:37 - System network status changed to ONLINE
+(I) 2022-01-07T23:56:37 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-01-07T23:56:37 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2022-01-07T23:56:37 - Successfully listening on IP: 10.0.0.64, port: TCP/6881
+(I) 2022-01-07T23:56:37 - Successfully listening on IP: 10.0.0.64, port: UDP/6881
+(I) 2022-01-07T23:56:37 - Successfully listening on IP: 172.18.0.7, port: TCP/6881
+(I) 2022-01-07T23:56:37 - Successfully listening on IP: 172.18.0.7, port: UDP/6881
+(I) 2022-01-07T23:56:37 - Successfully listening on IP: 10.0.4.12, port: TCP/6881
+(I) 2022-01-07T23:56:37 - Successfully listening on IP: 10.0.4.12, port: UDP/6881
+(N) 2022-01-07T23:56:37 - 'The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-01-07T23:56:37 - 'Breaking.Bad.S02.Multi.1080p.PopHD' restored.
+(I) 2022-01-07T23:56:37 - Detected external IP: 188.61.109.224
+(N) 2022-01-07T23:56:41 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-07T23:57:06 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-01-08T00:59:30 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-08T01:00:19 - qBittorrent v4.3.9 started
+(N) 2022-01-08T01:00:19 - Using config directory: /config/qBittorrent/
+(I) 2022-01-08T01:00:19 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-01-08T01:00:19 - Peer ID: -qB4390-
+(N) 2022-01-08T01:00:19 - HTTP User-Agent is 'qBittorrent/4.3.9'
+(I) 2022-01-08T01:00:19 - DHT support [ON]
+(I) 2022-01-08T01:00:19 - Local Peer Discovery support [ON]
+(I) 2022-01-08T01:00:19 - PeX support [ON]
+(I) 2022-01-08T01:00:19 - Anonymous mode [OFF]
+(I) 2022-01-08T01:00:19 - Encryption support [ON]
+(I) 2022-01-08T01:00:19 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(N) 2022-01-08T01:00:19 - Using built-in Web UI.
+(N) 2022-01-08T01:00:19 - Web UI translation for selected locale (en_US) has been successfully loaded.
+(N) 2022-01-08T01:00:19 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-01-08T01:00:19 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-01-08T01:00:19 - Successfully listening on IP: 127.0.0.1, port: UDP/6881
+(I) 2022-01-08T01:00:19 - Successfully listening on IP: 10.0.0.6, port: TCP/6881
+(I) 2022-01-08T01:00:19 - Successfully listening on IP: 10.0.0.6, port: UDP/6881
+(I) 2022-01-08T01:00:19 - Successfully listening on IP: 172.18.0.9, port: TCP/6881
+(I) 2022-01-08T01:00:19 - Successfully listening on IP: 172.18.0.9, port: UDP/6881
+(I) 2022-01-08T01:00:19 - Successfully listening on IP: 10.0.4.8, port: TCP/6881
+(I) 2022-01-08T01:00:19 - Successfully listening on IP: 10.0.4.8, port: UDP/6881
+(N) 2022-01-08T01:00:19 - 'The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-01-08T01:00:19 - 'Breaking.Bad.S02.Multi.1080p.PopHD' restored.
+(I) 2022-01-08T01:00:19 - Detected external IP: 188.61.109.224
+(N) 2022-01-08T01:00:22 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-08T01:00:25 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-01-14T08:36:25 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-14T08:36:34 - qBittorrent v4.4.0 started
+(N) 2022-01-14T08:36:34 - Using config directory: /config/qBittorrent
+(I) 2022-01-14T08:36:34 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-01-14T08:36:34 - Peer ID: -qB4400-
+(N) 2022-01-14T08:36:34 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-14T08:36:34 - DHT support [ON]
+(I) 2022-01-14T08:36:34 - Local Peer Discovery support [ON]
+(I) 2022-01-14T08:36:34 - PeX support [ON]
+(I) 2022-01-14T08:36:34 - Anonymous mode [OFF]
+(I) 2022-01-14T08:36:34 - Encryption support [ON]
+(I) 2022-01-14T08:36:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(N) 2022-01-14T08:36:34 - Using built-in Web UI.
+(W) 2022-01-14T08:36:34 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-01-14T08:36:34 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-01-14T08:36:34 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-01-14T08:36:34 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-01-14T08:36:34 - Successfully listening on IP: 10.0.0.11, port: TCP/6881
+(I) 2022-01-14T08:36:34 - Successfully listening on IP: 10.0.0.11, port: UTP/6881
+(I) 2022-01-14T08:36:34 - Successfully listening on IP: 172.18.0.10, port: TCP/6881
+(I) 2022-01-14T08:36:34 - Successfully listening on IP: 172.18.0.10, port: UTP/6881
+(I) 2022-01-14T08:36:34 - Successfully listening on IP: 10.0.4.20, port: TCP/6881
+(I) 2022-01-14T08:36:34 - Successfully listening on IP: 10.0.4.20, port: UTP/6881
+(N) 2022-01-14T08:36:34 - 'The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-01-14T08:36:34 - Couldn't enqueue move of "The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-14T08:36:34 - 'Breaking.Bad.S02.Multi.1080p.PopHD' restored.
+(N) 2022-01-14T08:36:34 - Couldn't enqueue move of "Breaking.Bad.S02.Multi.1080p.PopHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-01-14T08:36:34 - Detected external IP: 188.61.109.224
+(N) 2022-01-14T08:37:01 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T08:37:27 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-01-14T08:38:03 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-14T08:38:35 - qBittorrent v4.4.0 started
+(N) 2022-01-14T08:38:35 - Using config directory: /config/qBittorrent
+(I) 2022-01-14T08:38:35 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-01-14T08:38:35 - Peer ID: -qB4400-
+(N) 2022-01-14T08:38:35 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-14T08:38:35 - DHT support [ON]
+(I) 2022-01-14T08:38:35 - Local Peer Discovery support [ON]
+(I) 2022-01-14T08:38:35 - PeX support [ON]
+(I) 2022-01-14T08:38:35 - Anonymous mode [OFF]
+(I) 2022-01-14T08:38:35 - Encryption support [ON]
+(I) 2022-01-14T08:38:35 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(N) 2022-01-14T08:38:35 - Using built-in Web UI.
+(W) 2022-01-14T08:38:35 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-01-14T08:38:35 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-01-14T08:38:35 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-01-14T08:38:35 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-01-14T08:38:35 - Successfully listening on IP: 10.0.2.10, port: TCP/6881
+(I) 2022-01-14T08:38:35 - Successfully listening on IP: 10.0.2.10, port: UTP/6881
+(I) 2022-01-14T08:38:35 - Successfully listening on IP: 172.18.0.6, port: TCP/6881
+(I) 2022-01-14T08:38:35 - Successfully listening on IP: 172.18.0.6, port: UTP/6881
+(I) 2022-01-14T08:38:35 - Successfully listening on IP: 10.0.0.20, port: TCP/6881
+(I) 2022-01-14T08:38:35 - Successfully listening on IP: 10.0.0.20, port: UTP/6881
+(N) 2022-01-14T08:38:35 - 'The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-01-14T08:38:35 - Couldn't enqueue move of "The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-14T08:38:35 - 'Breaking.Bad.S02.Multi.1080p.PopHD' restored.
+(N) 2022-01-14T08:38:35 - Couldn't enqueue move of "Breaking.Bad.S02.Multi.1080p.PopHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-01-14T08:38:35 - Detected external IP: 188.61.109.224
+(N) 2022-01-14T08:38:41 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T08:38:44 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T09:06:56 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T09:13:24 - 'The.Purge.2013.2160p.UHD.BluRay.REMUX.HDR.HEVC.DTS-X-EPSiLON.mkv' added to download list.
+(N) 2022-01-14T09:13:24 - Couldn't enqueue move of "The.Purge.2013.2160p.UHD.BluRay.REMUX.HDR.HEVC.DTS-X-EPSiLON.mkv" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-14T09:31:44 - 'Venom.Let.There.Be.Carnage.2021.MULT.COMPLETE.UHD.BLURAY-GLiMMER' added to download list.
+(N) 2022-01-14T09:31:44 - Couldn't enqueue move of "Venom.Let.There.Be.Carnage.2021.MULT.COMPLETE.UHD.BLURAY-GLiMMER" from "/downloads/" to "/downloads". Both paths point to the same location.
+(W) 2022-01-14T09:36:31 - File error alert. Torrent: "Venom.Let.There.Be.Carnage.2021.MULT.COMPLETE.UHD.BLURAY-GLiMMER". File: "". Reason: Venom.Let.There.Be.Carnage.2021.MULT.COMPLETE.UHD.BLURAY-GLiMMER exception () error: Bad address
+(W) 2022-01-14T09:36:31 - File error alert. Torrent: "The.Purge.2013.2160p.UHD.BluRay.REMUX.HDR.HEVC.DTS-X-EPSiLON.mkv". File: "". Reason: The.Purge.2013.2160p.UHD.BluRay.REMUX.HDR.HEVC.DTS-X-EPSiLON.mkv exception () error: Bad address
+(C) 2022-01-14T09:38:35 - Couldn't save torrent resume data to '/config/qBittorrent/BT_backup/817e5e00460808228a99e7db1efdbda681a494fb.fastresume'. Error: No space left on device.
+(C) 2022-01-14T09:38:35 - Couldn't save torrent resume data to '/config/qBittorrent/BT_backup/a6ee54aff6009af9b87b7d6b887ab207753f123f.fastresume'. Error: No space left on device.
+(C) 2022-01-14T09:38:35 - Couldn't save torrent resume data to '/config/qBittorrent/BT_backup/4b1819b577d875b9f99bc0363e38536d1021ab2d.fastresume'. Error: No space left on device.
+(C) 2022-01-14T09:38:35 - Couldn't save torrent resume data to '/config/qBittorrent/BT_backup/698309b63395effbedb91609da5e7af2ebf37ada.fastresume'. Error: No space left on device.
+(N) 2022-01-14T09:48:14 - 'Venom.Let.There.Be.Carnage.2021.COMPLETE.UHD.BLURAY-UNTOUCHED' added to download list.
+(N) 2022-01-14T09:48:14 - Couldn't enqueue move of "Venom.Let.There.Be.Carnage.2021.COMPLETE.UHD.BLURAY-UNTOUCHED" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-14T09:48:16 - 'The.Purge.2013.2160p.UHD.Bluray.Remux.HDR10.HEVC.DTS.X.7.1-4K4U' added to download list.
+(N) 2022-01-14T09:48:16 - Couldn't enqueue move of "The.Purge.2013.2160p.UHD.Bluray.Remux.HDR10.HEVC.DTS.X.7.1-4K4U" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-14T09:49:33 - 'Breaking.Bad.S02.Multi.1080p.PopHD' was removed from the transfer list and hard disk.
+(N) 2022-01-14T09:49:33 - 'The Matrix Resurrections 2021 2160p HMAX WEB-DL HDR10 FLAC 5.1 H265-SHD' was removed from the transfer list and hard disk.
+(N) 2022-01-14T09:49:33 - 'The.Purge.2013.2160p.UHD.BluRay.REMUX.HDR.HEVC.DTS-X-EPSiLON.mkv' was removed from the transfer list and hard disk.
+(N) 2022-01-14T09:49:33 - 'Venom.Let.There.Be.Carnage.2021.MULT.COMPLETE.UHD.BLURAY-GLiMMER' was removed from the transfer list and hard disk.
+(N) 2022-01-14T09:49:33 - 'The.Purge.2013.2160p.UHD.Bluray.Remux.HDR10.HEVC.DTS.X.7.1-4K4U' was removed from the transfer list and hard disk.
+(N) 2022-01-14T09:49:33 - 'Venom.Let.There.Be.Carnage.2021.COMPLETE.UHD.BLURAY-UNTOUCHED' was removed from the transfer list and hard disk.
+(N) 2022-01-14T09:50:31 - 'Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD' added to download list.
+(N) 2022-01-14T09:50:31 - Couldn't enqueue move of "Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-14T09:58:18 - Couldn't enqueue move of "Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-01-14T12:22:10 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-14T12:22:32 - qBittorrent v4.4.0 started
+(N) 2022-01-14T12:22:32 - Using config directory: /config/qBittorrent
+(I) 2022-01-14T12:22:32 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-01-14T12:22:32 - Peer ID: -qB4400-
+(N) 2022-01-14T12:22:32 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-14T12:22:32 - DHT support [ON]
+(I) 2022-01-14T12:22:32 - Local Peer Discovery support [ON]
+(I) 2022-01-14T12:22:32 - PeX support [ON]
+(I) 2022-01-14T12:22:32 - Anonymous mode [OFF]
+(I) 2022-01-14T12:22:32 - Encryption support [ON]
+(I) 2022-01-14T12:22:32 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(N) 2022-01-14T12:22:32 - Using built-in Web UI.
+(W) 2022-01-14T12:22:32 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-01-14T12:22:32 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-01-14T12:22:32 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-01-14T12:22:32 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-01-14T12:22:32 - Successfully listening on IP: 10.0.3.3, port: TCP/6881
+(I) 2022-01-14T12:22:32 - Successfully listening on IP: 10.0.3.3, port: UTP/6881
+(I) 2022-01-14T12:22:32 - Successfully listening on IP: 172.18.0.3, port: TCP/6881
+(I) 2022-01-14T12:22:32 - Successfully listening on IP: 172.18.0.3, port: UTP/6881
+(I) 2022-01-14T12:22:32 - Successfully listening on IP: 10.0.0.28, port: TCP/6881
+(I) 2022-01-14T12:22:32 - Successfully listening on IP: 10.0.0.28, port: UTP/6881
+(N) 2022-01-14T12:22:32 - 'Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-01-14T12:22:32 - Couldn't enqueue move of "Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-01-14T12:22:32 - Detected external IP: 188.61.109.224
+(N) 2022-01-14T12:22:37 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T12:22:41 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-01-14T12:25:34 - UPnP / NAT-PMP support [OFF]
+(N) 2022-01-14T12:25:41 - qBittorrent v4.4.0 started
+(N) 2022-01-14T12:25:41 - Using config directory: /config/qBittorrent
+(I) 2022-01-14T12:25:41 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-01-14T12:25:42 - Peer ID: -qB4400-
+(N) 2022-01-14T12:25:42 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-01-14T12:25:42 - DHT support [ON]
+(I) 2022-01-14T12:25:42 - Local Peer Discovery support [ON]
+(I) 2022-01-14T12:25:42 - PeX support [ON]
+(I) 2022-01-14T12:25:42 - Anonymous mode [OFF]
+(I) 2022-01-14T12:25:42 - Encryption support [ON]
+(I) 2022-01-14T12:25:42 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(N) 2022-01-14T12:25:42 - Using built-in Web UI.
+(W) 2022-01-14T12:25:42 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-01-14T12:25:42 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-01-14T12:25:42 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-01-14T12:25:42 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-01-14T12:25:42 - Successfully listening on IP: 10.0.4.8, port: TCP/6881
+(I) 2022-01-14T12:25:42 - Successfully listening on IP: 10.0.4.8, port: UTP/6881
+(I) 2022-01-14T12:25:42 - Successfully listening on IP: 172.18.0.13, port: TCP/6881
+(I) 2022-01-14T12:25:42 - Successfully listening on IP: 172.18.0.13, port: UTP/6881
+(I) 2022-01-14T12:25:42 - Successfully listening on IP: 10.0.0.46, port: TCP/6881
+(I) 2022-01-14T12:25:42 - Successfully listening on IP: 10.0.0.46, port: UTP/6881
+(N) 2022-01-14T12:25:42 - 'Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-01-14T12:25:42 - Couldn't enqueue move of "Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-01-14T12:25:42 - Detected external IP: 188.61.109.224
+(N) 2022-01-14T12:25:44 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T12:25:48 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T14:45:54 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T15:00:19 - '[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)' added to download list.
+(N) 2022-01-14T15:00:20 - Couldn't enqueue move of "[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-14T15:00:51 - Couldn't enqueue move of "[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-14T15:09:13 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-01-14T15:10:40 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-01-14T15:30:00 - Detected external IP: 188.61.109.224
+(N) 2022-01-17T07:16:56 - 'Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS' added to download list.
+(N) 2022-01-17T07:16:56 - Couldn't enqueue move of "Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-17T07:35:10 - Couldn't enqueue move of "Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-20T16:44:58 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI' added to download list.
+(N) 2022-01-20T16:44:58 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-20T16:45:32 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-20T17:00:28 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]' added to download list.
+(N) 2022-01-20T17:00:28 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-20T17:01:44 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-27T16:43:12 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI' added to download list.
+(N) 2022-01-27T16:43:12 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-27T16:43:47 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-27T17:14:12 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)' added to download list.
+(N) 2022-01-27T17:14:13 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-01-27T17:15:11 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-02-01T13:41:01 - UPnP / NAT-PMP support [OFF]
+(N) 2022-02-01T13:41:58 - qBittorrent v4.4.0 started
+(N) 2022-02-01T13:41:58 - Using config directory: /config/qBittorrent
+(I) 2022-02-01T13:41:58 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-02-01T13:41:58 - Peer ID: -qB4400-
+(N) 2022-02-01T13:41:58 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-02-01T13:41:58 - DHT support [ON]
+(I) 2022-02-01T13:41:58 - Local Peer Discovery support [ON]
+(I) 2022-02-01T13:41:58 - PeX support [ON]
+(I) 2022-02-01T13:41:58 - Anonymous mode [OFF]
+(I) 2022-02-01T13:41:58 - Encryption support [ON]
+(I) 2022-02-01T13:41:58 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 02:11:53 2022.
+(N) 2022-02-01T13:41:58 - Using built-in Web UI.
+(W) 2022-02-01T13:41:58 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-02-01T13:41:58 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-02-01T13:41:58 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-02-01T13:41:58 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-02-01T13:41:58 - Successfully listening on IP: 10.0.0.5, port: TCP/6881
+(I) 2022-02-01T13:41:58 - Successfully listening on IP: 10.0.0.5, port: UTP/6881
+(I) 2022-02-01T13:41:58 - Successfully listening on IP: 172.18.0.8, port: TCP/6881
+(I) 2022-02-01T13:41:58 - Successfully listening on IP: 172.18.0.8, port: UTP/6881
+(I) 2022-02-01T13:41:58 - Successfully listening on IP: 10.0.4.6, port: TCP/6881
+(I) 2022-02-01T13:41:58 - Successfully listening on IP: 10.0.4.6, port: UTP/6881
+(N) 2022-02-01T13:41:58 - 'Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS' restored.
+(N) 2022-02-01T13:41:58 - Couldn't enqueue move of "Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-01T13:41:58 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI' restored.
+(N) 2022-02-01T13:41:58 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]' restored.
+(N) 2022-02-01T13:41:58 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-01T13:41:58 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-01T13:41:58 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)' restored.
+(N) 2022-02-01T13:41:58 - '[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)' restored.
+(N) 2022-02-01T13:41:58 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-01T13:41:58 - 'Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-02-01T13:41:58 - Couldn't enqueue move of "[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-01T13:41:58 - Couldn't enqueue move of "Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-01T13:41:58 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI' restored.
+(N) 2022-02-01T13:41:58 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-02-01T13:41:58 - Detected external IP: 188.61.109.224
+(N) 2022-02-01T13:42:02 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-01T13:42:05 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-01T13:42:13 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-02-01T13:44:15 - Detected external IP: 188.61.109.224
+(N) 2022-02-03T16:41:11 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E04.1080p.WEB.H264-SUGOI' added to download list.
+(N) 2022-02-03T16:41:11 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E04.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-03T16:41:47 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E04.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-03T16:56:41 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 04 (B-Global 1920x1080 HEVC AAC MKV)' added to download list.
+(N) 2022-02-03T16:56:42 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 04 (B-Global 1920x1080 HEVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-03T16:57:15 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 04 (B-Global 1920x1080 HEVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-02-04T18:25:29 - UPnP / NAT-PMP support [OFF]
+(N) 2022-02-04T18:30:18 - qBittorrent v4.4.0 started
+(N) 2022-02-04T18:30:18 - Using config directory: /config/qBittorrent
+(I) 2022-02-04T18:30:18 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-02-04T18:30:18 - Peer ID: -qB4400-
+(N) 2022-02-04T18:30:18 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-02-04T18:30:18 - DHT support [ON]
+(I) 2022-02-04T18:30:18 - Local Peer Discovery support [ON]
+(I) 2022-02-04T18:30:18 - PeX support [ON]
+(I) 2022-02-04T18:30:18 - Anonymous mode [OFF]
+(I) 2022-02-04T18:30:18 - Encryption support [ON]
+(I) 2022-02-04T18:30:18 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Jan 1 01:11:53 2022.
+(N) 2022-02-04T18:30:18 - Using built-in Web UI.
+(W) 2022-02-04T18:30:18 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-02-04T18:30:18 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-02-04T18:30:18 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-02-04T18:30:18 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-02-04T18:30:18 - Successfully listening on IP: 10.0.0.18, port: TCP/6881
+(I) 2022-02-04T18:30:18 - Successfully listening on IP: 10.0.0.18, port: UTP/6881
+(I) 2022-02-04T18:30:18 - Successfully listening on IP: 172.18.0.3, port: TCP/6881
+(I) 2022-02-04T18:30:18 - Successfully listening on IP: 172.18.0.3, port: UTP/6881
+(N) 2022-02-04T18:30:18 - 'Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS' restored.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T18:30:18 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 04 (B-Global 1920x1080 HEVC AAC MKV)' restored.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 04 (B-Global 1920x1080 HEVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T18:30:18 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI' restored.
+(N) 2022-02-04T18:30:18 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E04.1080p.WEB.H264-SUGOI' restored.
+(N) 2022-02-04T18:30:18 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]' restored.
+(N) 2022-02-04T18:30:18 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)' restored.
+(N) 2022-02-04T18:30:18 - '[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)' restored.
+(N) 2022-02-04T18:30:18 - 'Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E04.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T18:30:18 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI' restored.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T18:30:18 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-02-04T18:30:18 - Detected external IP: 188.61.109.224
+(I) 2022-02-04T18:30:19 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Feb 1 01:11:03 2022.
+(I) 2022-02-04T18:30:19 - Successfully updated IP geolocation database.
+(W) 2022-02-04T18:30:32 - WebAPI login failure. Reason: invalid credentials, attempt count: 1, IP: ::ffff:10.0.0.2, username: admin
+(N) 2022-02-04T18:30:36 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-04T18:38:46 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-04T18:39:02 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-04T18:41:11 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-04T18:46:54 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-04T18:47:08 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-04T19:17:12 - WebAPI login success. IP: ::ffff:10.0.0.2
+(I) 2022-02-04T19:21:48 - Detected external IP: 188.61.109.224
+(I) 2022-02-04T20:38:12 - UPnP / NAT-PMP support [OFF]
+(N) 2022-02-04T20:49:45 - qBittorrent v4.4.0 started
+(N) 2022-02-04T20:49:45 - Using config directory: /config/qBittorrent
+(I) 2022-02-04T20:49:45 - Trying to listen on: 0.0.0.0:6881,[::]:6881
+(N) 2022-02-04T20:49:45 - Peer ID: -qB4400-
+(N) 2022-02-04T20:49:45 - HTTP User-Agent is 'qBittorrent/4.4.0'
+(I) 2022-02-04T20:49:45 - DHT support [ON]
+(I) 2022-02-04T20:49:45 - Local Peer Discovery support [ON]
+(I) 2022-02-04T20:49:45 - PeX support [ON]
+(I) 2022-02-04T20:49:45 - Anonymous mode [OFF]
+(I) 2022-02-04T20:49:45 - Encryption support [ON]
+(I) 2022-02-04T20:49:45 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Feb 1 01:11:03 2022.
+(N) 2022-02-04T20:49:45 - Using built-in Web UI.
+(W) 2022-02-04T20:49:45 - Couldn't load Web UI translation for selected locale (C).
+(N) 2022-02-04T20:49:45 - Web UI: Now listening on IP: *, port: 8080
+(I) 2022-02-04T20:49:45 - Successfully listening on IP: 127.0.0.1, port: TCP/6881
+(I) 2022-02-04T20:49:45 - Successfully listening on IP: 127.0.0.1, port: UTP/6881
+(I) 2022-02-04T20:49:45 - Successfully listening on IP: 10.0.0.4, port: TCP/6881
+(I) 2022-02-04T20:49:45 - Successfully listening on IP: 10.0.0.4, port: UTP/6881
+(I) 2022-02-04T20:49:45 - Successfully listening on IP: 172.18.0.7, port: TCP/6881
+(I) 2022-02-04T20:49:45 - Successfully listening on IP: 172.18.0.7, port: UTP/6881
+(N) 2022-02-04T20:49:45 - 'Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS' restored.
+(N) 2022-02-04T20:49:45 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 04 (B-Global 1920x1080 HEVC AAC MKV)' restored.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "Venom.Let.There.Be.Carnage.2021.UHD.BluRay.REMUX.2160p.HEVC.TrueHD7.1.Atmos-HDS" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T20:49:45 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI' restored.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 04 (B-Global 1920x1080 HEVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T20:49:45 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E04.1080p.WEB.H264-SUGOI' restored.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E02.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T20:49:45 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]' restored.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E04.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 02 [B-Global][WEB-DL][1080p][AVC AAC][Multiple Subtitle][MKV]" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T20:49:45 - '[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)' restored.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "[NC-Raws] 平凡职业造就世界最强 第二季 / Arifureta Sekai Saikyou S2 - 03 (B-Global 1920x1080 AVC AAC MKV)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T20:49:45 - '[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)' restored.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "[EMBER] Arifureta Shokugyou de Sekai Saikyou S02E01 [1080p] [HEVC WEBRip] (Arifureta: From Commonplace to World`s Strongest)" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T20:49:45 - 'Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD' restored.
+(N) 2022-02-04T20:49:45 - 'Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI' restored.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "Dont Look Up 2021 2160p NF WEB-DL HDR10 FLAC 5.1 H265-SHD" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-04T20:49:45 - Couldn't enqueue move of "Arifureta.From.Commonplace.to.Worlds.Strongest.S02E03.1080p.WEB.H264-SUGOI" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-02-04T20:49:45 - Detected external IP: 188.61.109.224
+(N) 2022-02-04T20:49:49 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-04T20:49:51 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-04T20:49:53 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-05T00:17:20 - 'Pink.Floyd.The.Wall.1982.1080p.BluRay.x264-nikt0' added to download list.
+(N) 2022-02-05T00:17:20 - Couldn't enqueue move of "Pink.Floyd.The.Wall.1982.1080p.BluRay.x264-nikt0" from "/downloads/" to "/downloads". Both paths point to the same location.
+(N) 2022-02-05T00:19:08 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-05T00:19:17 - Couldn't enqueue move of "Pink.Floyd.The.Wall.1982.1080p.BluRay.x264-nikt0" from "/downloads/" to "/downloads". Both paths point to the same location.
+(I) 2022-02-05T03:18:44 - Detected external IP: 188.61.109.224
+(N) 2022-02-05T16:10:10 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-05T16:18:52 - WebAPI login success. IP: ::ffff:10.0.0.2
+(N) 2022-02-05T16:20:40 - WebAPI login success. IP: ::ffff:10.0.0.2

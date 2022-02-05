@@ -1,0 +1,66 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://www.torrentleech.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "PHPSESSID=vncd8n3kgag5ig918hra1rbm8a; tluid=1744400; tlpass=fb62c316e39a9a42fca0aa5026dea50322fc1d26; lastBrowse1=1644077442; lastBrowse2=1644078880"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "Medmanson"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JbmaymuHNBCqUdHKiPbYWYuEhxIae2ElbWDrpVhLohfn3gwyh3biAnJTQGdgEvVLqX4VjPeIdM1eG69MYCfIT0GgwSi8ZVGV7cKaebUoy8p5Uo2Ag1i5wJ2gmcip0Zxhg"
+  },
+  {
+    "id": "searchfreeleechonly",
+    "type": "inputbool",
+    "name": "Search freeleech only",
+    "value": false
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "added",
+    "options": {
+      "added": "created",
+      "seeders": "seeders",
+      "size": "size",
+      "nameSort": "title"
+    }
+  },
+  {
+    "id": "orderrequestedfromsite",
+    "type": "inputselect",
+    "name": "Order requested from site",
+    "value": "desc",
+    "options": {
+      "desc": "desc",
+      "asc": "asc"
+    }
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

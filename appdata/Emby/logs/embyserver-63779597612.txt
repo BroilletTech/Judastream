@@ -1,0 +1,205 @@
+2022-02-04 18:52:20.024 Info Main: Application path: /system/EmbyServer.dll
+2022-02-04 18:52:20.215 Info Main: Emby
+	Command line: /system/EmbyServer.dll -programdata /config -ffdetect /bin/ffdetect -ffmpeg /bin/ffmpeg -ffprobe /bin/ffprobe -restartexitcode 3
+	Operating system: Linux version 5.13.0-28-generic (buildd@lcy02-amd64-042) (gcc (Ubuntu 11.2.0-7ubuntu2) 11.2.0, GNU ld (GNU Binutils for Ubuntu) 2.37) #31-Ubuntu SMP T
+	Framework: .NET Core 3.1.21
+	OS/Process: x64/x64
+	Runtime: system/System.Private.CoreLib.dll
+	Processor count: 4
+	Data path: /config
+	Application path: /system
+2022-02-04 18:52:20.215 Info Main: Logs path: /config/logs
+2022-02-04 18:52:20.215 Info Main: Cache path: /config/cache
+2022-02-04 18:52:20.215 Info Main: Internal metadata path: /config/metadata
+2022-02-04 18:52:20.215 Info Main: Transcoding temporary files path: /config/transcoding-temp
+2022-02-04 18:52:20.245 Info App: Application version: 4.6.7.0
+2022-02-04 18:52:20.247 Info App: Loading assemblies
+2022-02-04 18:52:20.278 Info App: File /config/plugins/Fanart.dll has version 1.0.13.0
+2022-02-04 18:52:20.278 Info App: File /system/plugins/Fanart.dll has version 1.0.13.0
+2022-02-04 18:52:20.278 Info App: File /config/plugins/MusicBrainz.dll has version 1.0.18.0
+2022-02-04 18:52:20.279 Info App: File /system/plugins/MusicBrainz.dll has version 1.0.17.0
+2022-02-04 18:52:20.279 Info App: File /config/plugins/Emby.Server.CinemaMode.dll has version 1.0.38.0
+2022-02-04 18:52:20.279 Info App: File /system/plugins/Emby.Server.CinemaMode.dll has version 1.0.38.0
+2022-02-04 18:52:20.279 Info App: File /config/plugins/BlurayMounter.dll has version 1.0.0.0
+2022-02-04 18:52:20.279 Info App: File /system/plugins/BlurayMounter.dll has version 1.0.0.0
+2022-02-04 18:52:20.279 Info App: File /config/plugins/OpenSubtitles.dll has version 1.0.28.0
+2022-02-04 18:52:20.279 Info App: File /system/plugins/OpenSubtitles.dll has version 1.0.28.0
+2022-02-04 18:52:20.279 Info App: File /config/plugins/DvdMounter.dll has version 1.0.0.0
+2022-02-04 18:52:20.279 Info App: File /system/plugins/DvdMounter.dll has version 1.0.0.0
+2022-02-04 18:52:20.281 Info App: File /config/plugins/Emby.Webhooks.dll has version 1.0.15.0
+2022-02-04 18:52:20.281 Info App: File /system/plugins/Emby.Webhooks.dll has version 1.0.15.0
+2022-02-04 18:52:20.281 Info App: File /config/plugins/AudioDb.dll has version 1.0.14.0
+2022-02-04 18:52:20.281 Info App: File /system/plugins/AudioDb.dll has version 1.0.14.0
+2022-02-04 18:52:20.282 Info App: File /config/plugins/NfoMetadata.dll has version 1.0.56.0
+2022-02-04 18:52:20.282 Info App: File /system/plugins/NfoMetadata.dll has version 1.0.56.0
+2022-02-04 18:52:20.282 Info App: File /config/plugins/StudioImages.dll has version 1.0.3.0
+2022-02-04 18:52:20.282 Info App: File /system/plugins/StudioImages.dll has version 1.0.3.0
+2022-02-04 18:52:20.282 Info App: File /config/plugins/MovieDb.dll has version 1.5.1.0
+2022-02-04 18:52:20.282 Info App: File /system/plugins/MovieDb.dll has version 1.5.1.0
+2022-02-04 18:52:20.282 Info App: File /config/plugins/Emby.Dlna.dll has version 1.0.69.0
+2022-02-04 18:52:20.282 Info App: File /system/plugins/Emby.Dlna.dll has version 1.0.69.0
+2022-02-04 18:52:20.282 Info App: File /config/plugins/Tvdb.dll has version 1.0.42.0
+2022-02-04 18:52:20.282 Info App: File /system/plugins/Tvdb.dll has version 1.0.42.0
+2022-02-04 18:52:20.282 Info App: File /config/plugins/Emby.PortMapper.dll has version 1.0.6.0
+2022-02-04 18:52:20.283 Info App: File /system/plugins/Emby.PortMapper.dll has version 1.0.6.0
+2022-02-04 18:52:20.283 Info App: File /config/plugins/OMDb.dll has version 1.0.14.0
+2022-02-04 18:52:20.283 Info App: File /system/plugins/OMDb.dll has version 1.0.14.0
+2022-02-04 18:52:20.290 Info App: Loading Fanart, Version=1.0.13.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Fanart.dll
+2022-02-04 18:52:20.290 Info App: Loading MusicBrainz, Version=1.0.18.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MusicBrainz.dll
+2022-02-04 18:52:20.290 Info App: Loading Emby.Server.CinemaMode, Version=1.0.38.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Server.CinemaMode.dll
+2022-02-04 18:52:20.290 Info App: Loading BlurayMounter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from /config/plugins/BlurayMounter.dll
+2022-02-04 18:52:20.290 Info App: Loading OpenSubtitles, Version=1.0.28.0, Culture=neutral, PublicKeyToken=null from /config/plugins/OpenSubtitles.dll
+2022-02-04 18:52:20.290 Info App: Loading DvdMounter, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from /config/plugins/DvdMounter.dll
+2022-02-04 18:52:20.290 Info App: Loading Emby.Webhooks, Version=1.0.15.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Webhooks.dll
+2022-02-04 18:52:20.290 Info App: Loading AudioDb, Version=1.0.14.0, Culture=neutral, PublicKeyToken=null from /config/plugins/AudioDb.dll
+2022-02-04 18:52:20.290 Info App: Loading NfoMetadata, Version=1.0.56.0, Culture=neutral, PublicKeyToken=null from /config/plugins/NfoMetadata.dll
+2022-02-04 18:52:20.290 Info App: Loading StudioImages, Version=1.0.3.0, Culture=neutral, PublicKeyToken=null from /config/plugins/StudioImages.dll
+2022-02-04 18:52:20.290 Info App: Loading MovieDb, Version=1.5.1.0, Culture=neutral, PublicKeyToken=null from /config/plugins/MovieDb.dll
+2022-02-04 18:52:20.290 Info App: Loading Emby.Dlna, Version=1.0.69.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.Dlna.dll
+2022-02-04 18:52:20.290 Info App: Loading Tvdb, Version=1.0.42.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Tvdb.dll
+2022-02-04 18:52:20.290 Info App: Loading Emby.PortMapper, Version=1.0.6.0, Culture=neutral, PublicKeyToken=null from /config/plugins/Emby.PortMapper.dll
+2022-02-04 18:52:20.290 Info App: Loading OMDb, Version=1.0.14.0, Culture=neutral, PublicKeyToken=null from /config/plugins/OMDb.dll
+2022-02-04 18:52:20.290 Info App: Loading Emby.Api, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Web, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading MediaBrowser.Model, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading MediaBrowser.Common, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading MediaBrowser.Controller, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Providers, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Photos, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Server.Implementations, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.LiveTV, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.ActivityLog, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Server.MediaEncoding, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.LocalMetadata, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Notifications, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Codecs.Dxva, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Codecs, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Server.Connect, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading Emby.Server.Sync, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.290 Info App: Loading EmbyServer, Version=4.6.7.0, Culture=neutral, PublicKeyToken=null
+2022-02-04 18:52:20.420 Info SqliteUserRepository: Sqlite version: 3.35.5
+2022-02-04 18:52:20.421 Info SqliteUserRepository: Sqlite compiler options: COMPILER=gcc-8.3.0,ENABLE_COLUMN_METADATA,ENABLE_DBSTAT_VTAB,ENABLE_FTS3_PARENTHESIS,ENABLE_FTS3_TOKENIZER,ENABLE_FTS4,ENABLE_FTS5,ENABLE_GEOPOLY,ENABLE_JSON1,ENABLE_MATH_FUNCTIONS,ENABLE_PREUPDATE_HOOK,ENABLE_RTREE,ENABLE_SESSION,ENABLE_UNLOCK_NOTIFY,ENABLE_UPDATE_DELETE_LIMIT,LIKE_DOESNT_MATCH_BLOBS,MAX_SCHEMA_RETRY=25,MAX_VARIABLE_NUMBER=250000,OMIT_LOOKASIDE,SECURE_DELETE,THREADSAFE=1
+2022-02-04 18:52:20.434 Info SqliteUserRepository: Default journal_mode for /config/data/users.db is wal
+2022-02-04 18:52:20.466 Info AuthenticationRepository: Default journal_mode for /config/data/authentication.db is wal
+2022-02-04 18:52:20.501 Info ActivityRepository: Default journal_mode for /config/data/activitylog.db is wal
+2022-02-04 18:52:20.505 Info SqliteDisplayPreferencesRepository: Default journal_mode for /config/data/displaypreferences.db is wal
+2022-02-04 18:52:20.513 Info App: Adding HttpListener prefix http://+:8096/
+2022-02-04 18:52:20.675 Info SqliteItemRepository: Default journal_mode for /config/data/library.db is wal
+2022-02-04 18:52:20.675 Info SqliteItemRepository: cache_size is -98304
+2022-02-04 18:52:20.675 Info SqliteItemRepository: page_size is 4096
+2022-02-04 18:52:20.900 Info Server: http/1.1 GET http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0. UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+2022-02-04 18:52:20.932 Info Server: http/1.1 Response 503 to 10.0.0.2. Time: 39ms. http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0
+2022-02-04 18:52:21.558 Info FfmpegManager: FFMpeg: /bin/ffmpeg
+2022-02-04 18:52:21.558 Info FfmpegManager: FFProbe: /bin/ffprobe
+2022-02-04 18:52:21.558 Info FfmpegManager: FFDetect: /bin/ffdetect
+2022-02-04 18:52:21.562 Info Skia: SkiaSharp version: 2.80.0.0
+2022-02-04 18:52:21.592 Info TaskManager: Daily trigger for Thumbnail image extraction set to fire at 02/05/2022 02:00:00, which is 427.64012694166667 minutes from now.
+2022-02-04 18:52:21.596 Info TaskManager: Daily trigger for Rotate log file set to fire at 02/05/2022 00:00:00, which is 307.6400597566667 minutes from now.
+2022-02-04 18:52:21.604 Info App: ServerId: c656cb282eed4b3e8b2c9aa1ded47bdb
+2022-02-04 18:52:21.653 Info App: Starting entry point Emby.Dlna.Main.DlnaEntryPoint
+2022-02-04 18:52:21.673 Info Dlna: Registering publisher for urn:schemas-upnp-org:device:MediaServer:1
+2022-02-04 18:52:21.692 Info NetworkManager: Detected local ip addresses: 172.18.0.6, 127.0.0.1
+2022-02-04 18:52:21.730 Info App: Entry point completed: Emby.Dlna.Main.DlnaEntryPoint. Duration: 0.0767864 seconds
+2022-02-04 18:52:21.730 Info App: Starting entry point Emby.Server.Connect.ConnectEntryPoint
+2022-02-04 18:52:21.731 Info App: Loading data from /config/data/connect.txt
+2022-02-04 18:52:21.732 Info App: Loading data from /config/data/wan.dat
+2022-02-04 18:52:21.734 Info App: Entry point completed: Emby.Server.Connect.ConnectEntryPoint. Duration: 0.0046483 seconds
+2022-02-04 18:52:21.734 Info App: Core startup complete
+2022-02-04 18:52:21.734 Info App: Post-init migrations complete
+2022-02-04 18:52:21.734 Info App: Starting entry point Emby.Security.PluginSecurityManager
+2022-02-04 18:52:21.734 Info App: Entry point completed: Emby.Security.PluginSecurityManager. Duration: 2.43E-05 seconds
+2022-02-04 18:52:21.734 Info App: Starting entry point Emby.Server.CinemaMode.IntrosEntryPoint
+2022-02-04 18:52:21.734 Info App: Entry point completed: Emby.Server.CinemaMode.IntrosEntryPoint. Duration: 7.8E-05 seconds
+2022-02-04 18:52:21.735 Info App: Starting entry point Emby.Webhooks.WebhooksEntryPoint
+2022-02-04 18:52:21.736 Info App: Entry point completed: Emby.Webhooks.WebhooksEntryPoint. Duration: 0.0018757 seconds
+2022-02-04 18:52:21.736 Info App: Starting entry point NfoMetadata.EntryPoint
+2022-02-04 18:52:21.737 Info App: Entry point completed: NfoMetadata.EntryPoint. Duration: 9.59E-05 seconds
+2022-02-04 18:52:21.737 Info App: Starting entry point Emby.PortMapper.ExternalPortForwarding
+2022-02-04 18:52:21.740 Info App: Entry point completed: Emby.PortMapper.ExternalPortForwarding. Duration: 0.0036155 seconds
+2022-02-04 18:52:21.740 Info App: Starting entry point MediaBrowser.Api.ApiEntryPoint
+2022-02-04 18:52:21.740 Info App: Entry point completed: MediaBrowser.Api.ApiEntryPoint. Duration: 2.44E-05 seconds
+2022-02-04 18:52:21.740 Info App: Starting entry point Emby.Server.Implementations.Udp.UdpServerEntryPoint
+2022-02-04 18:52:21.743 Info App: Entry point completed: Emby.Server.Implementations.Udp.UdpServerEntryPoint. Duration: 0.0022479 seconds
+2022-02-04 18:52:21.743 Info App: Starting entry point Emby.Server.Implementations.News.NewsEntryPoint
+2022-02-04 18:52:21.743 Info App: Entry point completed: Emby.Server.Implementations.News.NewsEntryPoint. Duration: 9.84E-05 seconds
+2022-02-04 18:52:21.743 Info App: Starting entry point Emby.Server.Implementations.Library.DeviceAccessEntryPoint
+2022-02-04 18:52:21.743 Info App: Entry point completed: Emby.Server.Implementations.Library.DeviceAccessEntryPoint. Duration: 0.0003213 seconds
+2022-02-04 18:52:21.743 Info App: Starting entry point Emby.Server.Implementations.IO.LibraryMonitorStartup
+2022-02-04 18:52:21.831 Info App: Init BeginReceive on 0.0.0.0
+2022-02-04 18:52:21.831 Info App: Init BeginReceive on 0.0.0.0
+2022-02-04 18:52:21.831 Info App: Init BeginReceive on 172.18.0.6
+2022-02-04 18:52:21.831 Info App: Init BeginReceive on 127.0.0.1
+2022-02-04 18:52:21.921 Info LibraryMonitor: Skipping realtime monitor for /mnt/share1 because the path does not exist
+2022-02-04 18:52:21.921 Info LibraryMonitor: Skipping realtime monitor for /mnt/share2 because the path does not exist
+2022-02-04 18:52:21.921 Info App: Entry point completed: Emby.Server.Implementations.IO.LibraryMonitorStartup. Duration: 0.177664 seconds
+2022-02-04 18:52:21.921 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.AutomaticRestartEntryPoint
+2022-02-04 18:52:21.921 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.AutomaticRestartEntryPoint. Duration: 0.0001621 seconds
+2022-02-04 18:52:21.921 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.KeepServerAwake
+2022-02-04 18:52:21.921 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.KeepServerAwake. Duration: 9.59E-05 seconds
+2022-02-04 18:52:21.921 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.LibraryChangedNotifier
+2022-02-04 18:52:21.922 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.LibraryChangedNotifier. Duration: 0.0011853 seconds
+2022-02-04 18:52:21.922 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.ServerEventNotifier
+2022-02-04 18:52:21.924 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.ServerEventNotifier. Duration: 0.0016841 seconds
+2022-02-04 18:52:21.924 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.StartupWizard
+2022-02-04 18:52:21.924 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.StartupWizard. Duration: 0.0002136 seconds
+2022-02-04 18:52:21.924 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.SystemEvents
+2022-02-04 18:52:21.924 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.SystemEvents. Duration: 0.0002571 seconds
+2022-02-04 18:52:21.924 Info App: Starting entry point Emby.Server.Implementations.EntryPoints.UserDataChangeNotifier
+2022-02-04 18:52:21.924 Info App: Entry point completed: Emby.Server.Implementations.EntryPoints.UserDataChangeNotifier. Duration: 7.51E-05 seconds
+2022-02-04 18:52:21.924 Info App: Starting entry point Emby.Server.Implementations.Channels.ChannelsEntryPoint
+2022-02-04 18:52:21.926 Info App: Entry point completed: Emby.Server.Implementations.Channels.ChannelsEntryPoint. Duration: 0.0015426 seconds
+2022-02-04 18:52:21.926 Info App: Starting entry point Emby.LiveTV.EntryPoint
+2022-02-04 18:52:21.928 Info LiveTV: Loading live tv data from /config/data/livetv/timers
+2022-02-04 18:52:21.938 Info App: Entry point completed: Emby.LiveTV.EntryPoint. Duration: 0.0122161 seconds
+2022-02-04 18:52:21.938 Info App: Starting entry point Emby.LiveTV.UpgradeChannelOptionsEntryPoint
+2022-02-04 18:52:21.939 Info App: Entry point completed: Emby.LiveTV.UpgradeChannelOptionsEntryPoint. Duration: 0.0008027 seconds
+2022-02-04 18:52:21.939 Info App: Starting entry point Emby.LiveTV.RecordingNotifier
+2022-02-04 18:52:21.941 Info App: Entry point completed: Emby.LiveTV.RecordingNotifier. Duration: 0.001541 seconds
+2022-02-04 18:52:21.941 Info App: Starting entry point Emby.ActivityLog.ActivityLogEntryPoint
+2022-02-04 18:52:21.943 Info App: Entry point completed: Emby.ActivityLog.ActivityLogEntryPoint. Duration: 0.0021202 seconds
+2022-02-04 18:52:21.943 Info App: Starting entry point Emby.Server.MediaEncoding.Api.EncodingManagerEntryPoint
+2022-02-04 18:52:21.943 Info App: Entry point completed: Emby.Server.MediaEncoding.Api.EncodingManagerEntryPoint. Duration: 0.0005425 seconds
+2022-02-04 18:52:21.943 Info App: Starting entry point Emby.Notifications.Notifications
+2022-02-04 18:52:21.944 Info App: Entry point completed: Emby.Notifications.Notifications. Duration: 0.0002081 seconds
+2022-02-04 18:52:21.944 Info App: Starting entry point Emby.Server.Sync.SyncManagerEntryPoint
+2022-02-04 18:52:21.947 Info App: SyncRepository Initialize taking write lock
+2022-02-04 18:52:21.947 Info App: SyncRepository Initialize write lock taken
+2022-02-04 18:52:21.947 Info App: Entry point completed: Emby.Server.Sync.SyncManagerEntryPoint. Duration: 0.0031231 seconds
+2022-02-04 18:52:21.947 Info App: Starting entry point Emby.Server.Sync.SyncNotificationEntryPoint
+2022-02-04 18:52:21.948 Info App: Entry point completed: Emby.Server.Sync.SyncNotificationEntryPoint. Duration: 0.0013474 seconds
+2022-02-04 18:52:21.948 Info App: Starting entry point EmbyServer.Windows.LoopUtilEntryPoint
+2022-02-04 18:52:21.948 Info App: Entry point completed: EmbyServer.Windows.LoopUtilEntryPoint. Duration: 6.16E-05 seconds
+2022-02-04 18:52:21.948 Info App: All entry points have started
+2022-02-04 18:52:22.251 Info HttpClient: GET https://emby.media/community/index.php?/blog/rss/1-media-browser-developers-blog
+2022-02-04 18:52:24.617 Info HttpClient: GET https://www.mb3admin.com/admin/service/EmbyPackages.json
+2022-02-04 18:52:24.630 Info FfmpegManager: ProcessRun 'ffmpeg -hide_banner -version' Execute: /bin/ffmpeg -hide_banner -version
+2022-02-04 18:52:24.653 Info FfmpegManager: ProcessRun 'ffmpeg -hide_banner -version' Process exited with code 0
+2022-02-04 18:52:24.755 Info SoftwareCodecProvider: h264, libx264, libx264 Software Encoder, V-E-libx264
+2022-02-04 18:52:24.755 Info SoftwareCodecProvider: hevc, libx265, libx265 Software Encoder, V-E-libx265
+2022-02-04 18:52:24.755 Info SoftwareCodecProvider: mpeg4, mpeg4, MPEG-4 part 2 Software Encoder, V-E-mpeg4
+2022-02-04 18:52:24.755 Info SoftwareCodecProvider: msmpeg4v3, msmpeg4, MPEG-4 part 2 (MS Variant 3) Software Encoder, V-E-msmpeg4
+2022-02-04 18:52:24.755 Info SoftwareCodecProvider: vp8, libvpx, libvpx VP8, V-E-libvpx
+2022-02-04 18:52:24.757 Info SoftwareCodecProvider: h264, libx264, libx264 Software Encoder, V-E-libx264
+2022-02-04 18:52:24.757 Info SoftwareCodecProvider: hevc, libx265, libx265 Software Encoder, V-E-libx265
+2022-02-04 18:52:24.757 Info SoftwareCodecProvider: mpeg4, mpeg4, MPEG-4 part 2 Software Encoder, V-E-mpeg4
+2022-02-04 18:52:24.757 Info SoftwareCodecProvider: msmpeg4v3, msmpeg4, MPEG-4 part 2 (MS Variant 3) Software Encoder, V-E-msmpeg4
+2022-02-04 18:52:24.757 Info SoftwareCodecProvider: vp8, libvpx, libvpx VP8, V-E-libvpx
+2022-02-04 18:52:24.785 Info VaapiCodecProvider: ProcessRun 'ffdetect_vaencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 vaencdec -print_format json 
+2022-02-04 18:52:24.807 Info VaapiCodecProvider: ProcessRun 'ffdetect_vaencdec' Process exited with code 0
+2022-02-04 18:52:24.914 Info VaapiCodecProvider: Adapter #0: 'Raven Ridge Radeon Vega Series' Id:5597 (Driver: , Vendor: Advanced Micro Devices, Inc. [AMD/ATI])
+2022-02-04 18:52:24.921 Info QuickSyncCodecProvider: ProcessRun 'ffdetect_qsvencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 qsvencdec -print_format json 
+2022-02-04 18:52:24.944 Info QuickSyncCodecProvider: ProcessRun 'ffdetect_qsvencdec' Process exited with code 0
+2022-02-04 18:52:25.008 Info NvidiaCodecProvider: ProcessRun 'ffdetect_nvencdec' Execute: /bin/ffdetect -hide_banner -show_program_version -loglevel 48 -show_error -show_log 40 nvencdec -print_format json 
+2022-02-04 18:52:25.012 Info NvidiaCodecProvider: ProcessRun 'ffdetect_nvencdec' Process exited with code 1
+2022-02-04 18:52:30.473 Info Server: http/1.1 GET http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0. UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+2022-02-04 18:52:30.610 Info Server: http/1.1 Response 200 to 10.0.0.2. Time: 137ms. http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0
+2022-02-04 18:52:40.458 Info Server: http/1.1 GET http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0. UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+2022-02-04 18:52:40.469 Info Server: http/1.1 Response 200 to 10.0.0.2. Time: 11ms. http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0
+2022-02-04 18:52:50.461 Info Server: http/1.1 GET http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0. UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+2022-02-04 18:52:50.467 Info Server: http/1.1 Response 200 to 10.0.0.2. Time: 6ms. http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0
+2022-02-04 18:53:00.452 Info Server: http/1.1 GET http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0. UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+2022-02-04 18:53:00.456 Info Server: http/1.1 Response 200 to 10.0.0.2. Time: 5ms. http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0
+2022-02-04 18:53:10.447 Info Server: http/1.1 GET http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0. UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+2022-02-04 18:53:10.452 Info Server: http/1.1 Response 200 to 10.0.0.2. Time: 5ms. http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0
+2022-02-04 18:53:20.453 Info Server: http/1.1 GET http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0. UserAgent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+2022-02-04 18:53:20.457 Info Server: http/1.1 Response 200 to 10.0.0.2. Time: 4ms. http://192.168.1.109:8096/emby/ScheduledTasks?IsEnabled=true&X-Emby-Client=Emby Web&X-Emby-Device-Name=Chrome&X-Emby-Device-Id=0b0f6a0f-2b2e-4682-a833-02aedb50de7c&X-Emby-Client-Version=4.6.7.0

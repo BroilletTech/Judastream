@@ -1,0 +1,115 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://www3.yggtorrent.re/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "hide_side_menu=true; remove_ads=true; cf_chl_2=0719cb25038ee8b; cf_chl_prog=x12; cf_clearance=.MEDvI8g3e46.c5wHzmAsnXu0wy355ozoEMxiK04qiM-1641593590-0-150; ygg_=jv2bcu5vuen11jemjjhtiblr60541dqs"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": "Exception (yggcookie): Challenge detected but FlareSolverr is not configured: Challenge detected but FlareSolverr is not configured"
+  },
+  {
+    "id": "cookie",
+    "type": "inputstring",
+    "name": "Cookie",
+    "value": "hide_side_menu=true; remove_ads=true; cf_chl_2=0719cb25038ee8b; cf_chl_prog=x12; cf_clearance=.MEDvI8g3e46.c5wHzmAsnXu0wy355ozoEMxiK04qiM-1641593590-0-150; ygg_=jv2bcu5vuen11jemjjhtiblr60541dqs"
+  },
+  {
+    "id": "user-agent",
+    "type": "inputstring",
+    "name": "User-Agent",
+    "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36"
+  },
+  {
+    "id": "catégorie",
+    "type": "inputselect",
+    "name": "Catégorie",
+    "value": "all",
+    "options": {
+      "all": "Tous",
+      "2145": "Film/Vidéo",
+      "2139": "Audio",
+      "2144": "Application",
+      "2142": "Jeu vidéo",
+      "2140": "eBook",
+      "2141": "Emulation",
+      "2143": "GPS",
+      "2188": "XXX"
+    }
+  },
+  {
+    "id": "trytonormalizereleasesnamesbymovingyearafterthetitle",
+    "type": "inputbool",
+    "name": "Try to normalize releases names by moving year after the title",
+    "value": false
+  },
+  {
+    "id": "replacemultibyanotherlanguageinreleasename",
+    "type": "inputbool",
+    "name": "Replace MULTI by another language in release name",
+    "value": false
+  },
+  {
+    "id": "replacemultibythislanguage",
+    "type": "inputselect",
+    "name": "Replace MULTI by this language",
+    "value": "FRENCH",
+    "options": {
+      "FRENCH": "FRENCH",
+      "MULTI.FRENCH": "MULTI.FRENCH",
+      "ENGLISH": "ENGLISH",
+      "MULTI.ENGLISH": "MULTI.ENGLISH",
+      "VOSTFR": "VOSTFR",
+      "MULTI.VOSTFR": "MULTI.VOSTFR"
+    }
+  },
+  {
+    "id": "replacevostfrwithenglish",
+    "type": "inputbool",
+    "name": "Replace VOSTFR with ENGLISH",
+    "value": false
+  },
+  {
+    "id": "enhancesonarrcompatibilitywithanimebyrenamingepisode(xxxtoexxx).worksonlyifepisodeisattheendofthequery.candisturbmoviessearch.(backtothefuture3->backtothefuturee3)",
+    "type": "inputbool",
+    "name": "Enhance sonarr compatibility with anime by renaming episode (xxx to exxx). Works only if episode is at the end of the query. Can disturb movies search. (back to the future 3 -> back to the future e3)",
+    "value": false
+  },
+  {
+    "id": "sortrequestedfromsite",
+    "type": "inputselect",
+    "name": "Sort requested from site",
+    "value": "publish_date",
+    "options": {
+      "publish_date": "created",
+      "seed": "seeders",
+      "size": "size",
+      "name": "title"
+    }
+  },
+  {
+    "id": "orderrequestedfromsite",
+    "type": "inputselect",
+    "name": "Order requested from site",
+    "value": "desc",
+    "options": {
+      "desc": "desc",
+      "asc": "asc"
+    }
+  },
+  {
+    "id": "tags",
+    "type": "inputtags",
+    "name": "Tags",
+    "value": ""
+  }
+]

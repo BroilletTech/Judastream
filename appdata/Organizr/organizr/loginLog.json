@@ -1,0 +1,7 @@
+{"logType":"login_log","auth":[{"
+date":"2022-02-04 20:12:24","username":"admin","ip":"10.0.0.2","auth_type":"good_auth"},{"
+date":"2022-02-04 20:20:24","username":"diarm56","ip":"10.0.0.2","auth_type":"good_auth"},{"
+date":"2022-02-04 20:20:50","username":"diarm56","ip":"10.0.0.2","auth_type":"good_auth"},{"
+date":"2022-02-04 20:22:58","username":"diarm56","ip":"10.0.0.2","auth_type":"good_auth"},{"
+date":"2022-02-04 20:23:56","username":"diarm56","ip":"10.0.0.2","auth_type":"good_auth"},{"
+date":"2022-02-04 20:24:47","username":"diarm56","ip":"10.0.0.2","auth_type":"good_auth"}]}

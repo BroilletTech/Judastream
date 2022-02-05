@@ -1,0 +1,110 @@
+{
+    "name": "Arifureta: From Commonplace to World's Strongest",
+    "thetvdb_id": "357019",
+    "hdclearart": [
+        {
+            "id": "138944",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/hdclearart/from-common-job-class-to-the-strongest-in-the-world-617ca2cdbbc00.png",
+            "lang": "ja",
+            "likes": "3"
+        },
+        {
+            "id": "123130",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/hdclearart/from-common-job-class-to-the-strongest-in-the-world-600d4d602a5e1.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "123131",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/hdclearart/from-common-job-class-to-the-strongest-in-the-world-600d4d61c64b3.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "123132",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/hdclearart/from-common-job-class-to-the-strongest-in-the-world-600d4d62ecaa0.png",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "123133",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/hdclearart/from-common-job-class-to-the-strongest-in-the-world-600d4d641f563.png",
+            "lang": "en",
+            "likes": "0"
+        }
+    ],
+    "hdtvlogo": [
+        {
+            "id": "138945",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/hdtvlogo/from-common-job-class-to-the-strongest-in-the-world-617ca2e701b8e.png",
+            "lang": "ja",
+            "likes": "2"
+        },
+        {
+            "id": "97941",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/hdtvlogo/from-common-job-class-to-the-strongest-in-the-world-5cd4c297f0902.png",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "100748",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/hdtvlogo/from-common-job-class-to-the-strongest-in-the-world-5d438fde1bc85.png",
+            "lang": "en",
+            "likes": "1"
+        }
+    ],
+    "tvposter": [
+        {
+            "id": "123134",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/tvposter/from-common-job-class-to-the-strongest-in-the-world-600d57a4c9ca0.jpg",
+            "lang": "en",
+            "likes": "1"
+        },
+        {
+            "id": "123137",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/tvposter/from-common-job-class-to-the-strongest-in-the-world-600d57a8be7f7.jpg",
+            "lang": "en",
+            "likes": "0"
+        },
+        {
+            "id": "140144",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/tvposter/from-common-job-class-to-the-strongest-in-the-world-61a039c57c70b.jpg",
+            "lang": "00",
+            "likes": "0"
+        }
+    ],
+    "showbackground": [
+        {
+            "id": "140497",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/showbackground/arifureta-from-commonplace-to-worlds-strongest-61a78b4c6fd8b.jpg",
+            "lang": "",
+            "likes": "1",
+            "season": "all"
+        }
+    ],
+    "tvbanner": [
+        {
+            "id": "140498",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/tvbanner/arifureta-from-commonplace-to-worlds-strongest-61a78c502e2f1.jpg",
+            "lang": "ja",
+            "likes": "1"
+        }
+    ],
+    "tvthumb": [
+        {
+            "id": "140499",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/tvthumb/arifureta-from-commonplace-to-worlds-strongest-61a78d6de0413.jpg",
+            "lang": "ja",
+            "likes": "1"
+        }
+    ],
+    "seasonposter": [
+        {
+            "id": "140143",
+            "url": "https://assets.fanart.tv/fanart/tv/357019/seasonposter/from-common-job-class-to-the-strongest-in-the-world-61a0398b1eee7.jpg",
+            "lang": "ja",
+            "likes": "0",
+            "season": "2"
+        }
+    ]
+}
