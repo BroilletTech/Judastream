@@ -3,6 +3,7 @@ apt upgrade
 apt install curl
 curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 curl -fsSL https://raw.githubusercontent.com/MatchbookLab/local-persist/master/scripts/install.sh | sudo bash
+apt install mdadm
 mkdir -R /docker/appdata/Sonarr
 mkdir /docker/appdata/Radarr
 mkdir /docker/appdata/Lidarr
@@ -11,6 +12,7 @@ mkdir /docker/appdata/Bazarr
 mkdir /docker/appdata/Emby
 mkdir /docker/appdata/Ombi
 mkdir /docker/appdata/Jackett
+mdadm --create /dev/md0 --level=0 --raid-devices=2 /dev/sda /dev/sdb
 mkdir -R /mnt/Vault/Media/Series
 mkdir /mnt/Vault/Media/Movies
 mkdir /mnt/Vault/Media/Music
